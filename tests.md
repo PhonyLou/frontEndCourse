@@ -46,8 +46,8 @@
 <html>
 	<body>
 		<div style="text-align: center;">
-			selected items:<input type='text' size="200" id='myOptions'/><br>
-			<input type="radio" name="root" value="root">root</input>
+			selected items:<input type='text' size="200" id='myOptions'><br>
+			<input type="radio" name="root" value="root">root
 		</div>
 	</body>
 </html>
