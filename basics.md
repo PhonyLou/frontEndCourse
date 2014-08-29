@@ -1,6 +1,7 @@
 一、基础课
 ==
 
+
 英语读写
 --
 
@@ -27,6 +28,8 @@
 https://tools.ietf.org/html/rfc2616  (HTTP协议描述，比较枯燥，但是非常重要，这是web开发的理论基础)
 
 
+
+
 stackoverflow
 --
 
@@ -49,6 +52,8 @@ stackoverflow
 ###学习资源： 
 
 http://stackoverflow.com/tour
+
+
 
 
 github
@@ -77,8 +82,10 @@ github
 https://help.github.com
 
 
+
+
 编码规范
-==
+--
 
 ###要求达到水平： 
 
